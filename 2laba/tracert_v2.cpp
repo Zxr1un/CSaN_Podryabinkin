@@ -17,7 +17,7 @@ char* get_ip(char* domain);
 char* get_domain(char* addr_str);
 
 bool check_domain = false;
-
+bool not_cmd = false;
 int main(int argc, char* argv[])
 {
     if (argc < 2) {
@@ -56,11 +56,15 @@ int main(int argc, char* argv[])
 
         // Обрабатываем как обычные аргументы командной строки
         if (token_count >= 2 && strcmp(tokens[1], "-d") == 0) {
+            not_cmd = true;
             check_domain = true;
             check_input(tokens[2]);
+            
         }
         else {
+            not_cmd = true;
             check_input(tokens[1]);
+ 
         }
     }
     else if (argc > 2) {
@@ -246,10 +250,16 @@ void tracert_by_IP( char* ip)
             }
             
         }
-        if (dest_is_achieved) break;
+        if (dest_is_achieved) {
+            if (not_cmd) {
+                cout << "\n\nWrite and press Enter, to escape\n\n";
+                char* a = new char[256];
+                cin >> a;
+            }
+            break;
+        }
         cout << std::endl;
     }
-
     closesocket(sock);
     WSACleanup();
 }
