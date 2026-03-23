@@ -1,0 +1,22 @@
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\bin\Debug\net8.0-windows\3laba P2P.exe
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\bin\Debug\net8.0-windows\3laba P2P.deps.json
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\bin\Debug\net8.0-windows\3laba P2P.runtimeconfig.json
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\bin\Debug\net8.0-windows\3laba P2P.dll
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\bin\Debug\net8.0-windows\3laba P2P.pdb
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\SetNameIP.g.cs
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\App.g.cs
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P_MarkupCompile.cache
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P_MarkupCompile.lref
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\SetNameIP.baml
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.g.resources
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.AssemblyInfoInputs.cache
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.AssemblyInfo.cs
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.csproj.CoreCompileInputs.cache
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.dll
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\refint\3laba P2P.dll
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.pdb
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\3laba P2P.genruntimeconfig.cache
+D:\Zaxar_sd\_BSUIR_Study\__2\CSaN\Лабы\3 laba\3laba P2P\obj\Debug\net8.0-windows\ref\3laba P2P.dll
