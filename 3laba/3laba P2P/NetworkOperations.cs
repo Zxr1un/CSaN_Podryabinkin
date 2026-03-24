@@ -187,6 +187,7 @@ namespace _3laba_P2P
             {
                 try
                 {
+                    
                     int read = 0;
                     while (read < 3)
                     {
@@ -377,7 +378,7 @@ namespace _3laba_P2P
             foreach(Message mes in Messages)
             {
                 if (mes.type == 3) continue;
-                sb.Append($"{mes.type}|{mes.time.ToString()}|{mes.Name}|{mes.text}|");
+                sb.Append($"{mes.type}|{mes.time.ToString("yyyy.MM.dd HH:mm:ss")}|{mes.Name}|{mes.text}|");
             }
             return sb.ToString();
         }
@@ -395,7 +396,7 @@ namespace _3laba_P2P
 
                 i++;
                 if (i >= parts.Length) break;
-                DateTime dt = DateTime.ParseExact(parts[i], "dd.MM.yyyy HH:mm:ss", System.Globalization.CultureInfo.InvariantCulture);
+                DateTime dt = DateTime.ParseExact(parts[i], "yyyy.MM.dd HH:mm:ss", System.Globalization.CultureInfo.InvariantCulture);
 
                 i++;
                 if (i >= parts.Length) break;

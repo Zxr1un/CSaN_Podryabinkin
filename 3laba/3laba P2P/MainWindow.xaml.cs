@@ -49,7 +49,14 @@ namespace _3laba_P2P
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
-            
+            foreach(Node node in NetworkOperations.NodesUI)
+            {
+                node.SendMessage("Closed", 2);
+            }
+            foreach (Node node in NetworkOperations.NodesUI)
+            {
+                node.OnClose();
+            }
             Environment.Exit(0);
             
         }
