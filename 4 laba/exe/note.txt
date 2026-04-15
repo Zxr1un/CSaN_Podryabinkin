@@ -1,7 +1,1 @@
-2026-04-01 16:00:22.205 --- Logger initialized ---
-2026-04-01 19:00:36.945:      - http://example.com/ -- HTTP/1.1 200 OK
-2026-04-01 19:13:28.151:      - http://live.legendy.by:8000/legendyfm -- HTTP/1.0 200 OK
-2026-04-01 19:13:29.658:      - http://live.legendy.by:8000/favicon.ico -- HTTP/1.0 404 File Not Found
-2026-04-01 19:25:33.768:      - http://live.legendy.by:8000/legendyfm -- HTTP/1.0 200 OK
-2026-04-01 19:25:38.520:      - http://live.legendy.by:8000/legendyfm -- HTTP/1.0 200 OK
-2026-04-01 19:25:39.981:      - http://live.legendy.by:8000/favicon.ico -- HTTP/1.0 404 File Not Found
+2026-04-01 16:46:39.811 --- Logger initialized ---
