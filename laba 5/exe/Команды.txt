@@ -1,0 +1,12 @@
+Curl:
+
+curl http://127.0.0.2:5001/My.txt (Если папка, то список)
+
+
+curl -X PUT http://127.0.0.2:5001/My.txt --data "It is created!!"
+
+curl -X DELETE http://127.0.0.2:5001/My.txt
+
+curl -I http://127.0.0.2:5001/My.txt
+
+curl -X PUT http://127.0.0.2:5001/copy.txt -H "X-Copy-From: /My.txt"
